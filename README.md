@@ -129,5 +129,5 @@ To use this social media platform, include the necessary classes in your project
 
 ## Contributors
 
-- [Aneeba Waseem] [(https://github.com/AneebaWaseem)]
-- [Fareha Ilyas] [(https://github.com/fareha1069/)]
+- [Aneeba Waseem](https://github.com/AneebaWaseem)
+- [Fareha Ilyas](https://github.com/fareha1069)
