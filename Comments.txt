@@ -1,0 +1,4 @@
+  post1    u1	  Amna Akram	Congratulations Bro!
+  post2    u1	  Amna Akram	Waiting for exams to end...
+  post8    u7	Abdullah Nadeem	Happy Birthday!
+ post11    u7	Abdullah Nadeem	Looks Delicious!
