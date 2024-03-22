@@ -1,4 +1,4 @@
-# Social Media Platform
+# Social Media Application
 
 ## Description
 
